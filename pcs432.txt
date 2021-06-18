@@ -1,0 +1,20 @@
+		Hadoop Fundamentals Lab Practical Exam (PCS 432)
+ 
+Duration:  9:00am - 10:15am                                  		            MM:50
+Instruction: Instruction file is attached already 
+Attempt ant two questions
+Q1. Calculate how many time “hadoop” key word appears in the given input file through Map-Reduce program.
+Note: you can find input file named (q1input.txt) in the GitHub repository, from where you have downloaded the question paper.
+
+Q2. Calculate the sum of all even numbers present in the input file through Map-Reduce program.
+Note: you can find input file named (q2input.txt) in the GitHub repository, from where you have downloaded the question paper.
+
+Q3. Demonstrate Internal and external table in hive using suitable example.
+Note: Assume fields and feed some dummy data. For example: 
+StudentName	Enr_no	Roll_no
+Amit	        GE_001	 01
+
+
+
+
+
