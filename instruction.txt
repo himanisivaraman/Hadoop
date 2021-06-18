@@ -13,3 +13,4 @@ Your directory should have following format - ClassRollNo_UniversityRoll_No_Firs
 WARNING - Keeping your directory inside any another directory which is not designated for you might lead in to non evaluation of your code, so please make sure you are pushing the code to correct directory in a format as instructed here.
 
 You need to keep all of your details inside same directory you created above.
+ YOU HAVE PRACTICAL FILE WITH NAME PCS432 AND THERE ARE TWO FILES Q1, Q2 THOSE ARE DATA FILES .
