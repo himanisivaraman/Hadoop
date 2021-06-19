@@ -21,9 +21,9 @@ public class MyevenoddDriver
 		Configuration conf = new Configuration();
 		Job job = new Job(conf, "Evenodd");  
 		
-		job.setJarByClass(MyDriver.class);
-		job.setMapperClass(MyMapper.class);
-		job.setReducerClass(MyReducer.class);
+		job.setJarByClass(MyevenoddDriver.class);
+		job.setMapperClass(MyevenoddMapper.class);
+		job.setReducerClass(MyevenoddReducer.class);
 		job.setMapOutputKeyClass(Text.class);
 		job.setMapOutputValueClass(IntWritable.class);
 
